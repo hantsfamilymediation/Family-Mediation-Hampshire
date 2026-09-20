@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Source Serif 4", Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --color-hants-navy: #153243;
+  --color-hants-teal: #1d6a70;
+  --color-hants-sage: #4f807f;
+  --color-hants-warm: #f4f4f0;
+  --color-hants-sand: #ecebe4;
+  --color-hants-accent: #c47335;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-serif);
+}

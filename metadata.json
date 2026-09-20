@@ -1,0 +1,6 @@
+{
+  "name": "Hants Family Mediation",
+  "description": "Family Mediation in Hampshire — Calm, Confidential & Practical. Helping separating couples, parents and families reach workable agreements about children, finances and property without going straight to court.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
